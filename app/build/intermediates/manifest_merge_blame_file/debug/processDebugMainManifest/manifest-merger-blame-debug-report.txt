@@ -9,148 +9,141 @@
 9        android:targetSdkVersion="36" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:5:5-67
-11-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:5:22-64
 12
 13    <permission
-13-->[androidx.core:core:1.13.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\0eb5d60a43ddbf4329423ec096035186\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+13-->[androidx.core:core:1.13.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\0eb5d60a43ddbf4329423ec096035186\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
 14        android:name="com.example.controllerzmq.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-14-->[androidx.core:core:1.13.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\0eb5d60a43ddbf4329423ec096035186\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+14-->[androidx.core:core:1.13.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\0eb5d60a43ddbf4329423ec096035186\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
 15        android:protectionLevel="signature" />
-15-->[androidx.core:core:1.13.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\0eb5d60a43ddbf4329423ec096035186\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+15-->[androidx.core:core:1.13.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\0eb5d60a43ddbf4329423ec096035186\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
 16
 17    <uses-permission android:name="com.example.controllerzmq.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-17-->[androidx.core:core:1.13.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\0eb5d60a43ddbf4329423ec096035186\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
-17-->[androidx.core:core:1.13.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\0eb5d60a43ddbf4329423ec096035186\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+17-->[androidx.core:core:1.13.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\0eb5d60a43ddbf4329423ec096035186\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.13.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\0eb5d60a43ddbf4329423ec096035186\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
 18
 19    <application
-19-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:7:5-34:19
+19-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:7:5-30:19
 20        android:allowBackup="true"
-20-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:8:9-35
+20-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:8:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-21-->[androidx.core:core:1.13.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\0eb5d60a43ddbf4329423ec096035186\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+21-->[androidx.core:core:1.13.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\0eb5d60a43ddbf4329423ec096035186\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
 22        android:dataExtractionRules="@xml/data_extraction_rules"
-22-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:9:9-65
+22-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:9:9-65
 23        android:debuggable="true"
 24        android:extractNativeLibs="false"
 25        android:fullBackupContent="@xml/backup_rules"
-25-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:10:9-54
-26        android:icon="@mipmap/ic_launcher"
-26-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:11:9-43
+25-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:10:9-54
+26        android:icon="@drawable/image"
+26-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:11:9-39
 27        android:label="@string/app_name"
-27-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:12:9-41
+27-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:12:9-41
 28        android:roundIcon="@mipmap/ic_launcher_round"
-28-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:13:9-54
+28-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:13:9-54
 29        android:supportsRtl="true"
-29-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:14:9-35
+29-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:14:9-35
 30        android:testOnly="true"
 31        android:theme="@style/Theme.ControllerZMQ"
-31-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:15:9-51
+31-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:15:9-51
 32        android:usesCleartextTraffic="true" >
-32-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:16:9-44
+32-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:16:9-44
 33        <activity
-33-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:19:9-27:20
+33-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:19:9-28:20
 34            android:name="com.example.controllerzmq.MainActivity"
-34-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:20:13-41
+34-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:20:13-41
 35            android:exported="true" >
-35-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:21:13-36
+35-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:21:13-36
 36            <intent-filter>
-36-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:22:13-26:29
+36-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:23:13-27:29
 37                <action android:name="android.intent.action.MAIN" />
-37-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:23:17-69
-37-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:23:25-66
+37-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:24:17-69
+37-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:24:25-66
 38
 39                <category android:name="android.intent.category.LAUNCHER" />
-39-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:25:17-77
-39-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:25:27-74
+39-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:26:17-77
+39-->C:\Bandha Intern\Internship-Communication-Essensial\controll\app\src\main\AndroidManifest.xml:26:27-74
 40            </intent-filter>
 41        </activity>
-42        <activity android:name="com.example.controllerzmq.CONTROLLER" />
-42-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:28:9-29:41
-42-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:29:13-39
-43        <!-- android:exported="false" /> -->
-44        <activity android:name="com.example.controllerzmq.CONNECTION" />
-44-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:31:9-32:41
-44-->C:\bandha\androstu\controllerzmq\app\src\main\AndroidManifest.xml:32:13-39
-45        <!-- android:exported="false" /> -->
-46        <provider
-46-->[androidx.emoji2:emoji2:1.3.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\55930cea193e8add5c435929a1eaee49\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
-47            android:name="androidx.startup.InitializationProvider"
-47-->[androidx.emoji2:emoji2:1.3.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\55930cea193e8add5c435929a1eaee49\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
-48            android:authorities="com.example.controllerzmq.androidx-startup"
-48-->[androidx.emoji2:emoji2:1.3.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\55930cea193e8add5c435929a1eaee49\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
-49            android:exported="false" >
-49-->[androidx.emoji2:emoji2:1.3.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\55930cea193e8add5c435929a1eaee49\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+42
+43        <provider
+43-->[androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\55930cea193e8add5c435929a1eaee49\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+44            android:name="androidx.startup.InitializationProvider"
+44-->[androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\55930cea193e8add5c435929a1eaee49\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+45            android:authorities="com.example.controllerzmq.androidx-startup"
+45-->[androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\55930cea193e8add5c435929a1eaee49\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+46            android:exported="false" >
+46-->[androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\55930cea193e8add5c435929a1eaee49\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+47            <meta-data
+47-->[androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\55930cea193e8add5c435929a1eaee49\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+48                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+48-->[androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\55930cea193e8add5c435929a1eaee49\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+49                android:value="androidx.startup" />
+49-->[androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\55930cea193e8add5c435929a1eaee49\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
 50            <meta-data
-50-->[androidx.emoji2:emoji2:1.3.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\55930cea193e8add5c435929a1eaee49\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
-51                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-51-->[androidx.emoji2:emoji2:1.3.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\55930cea193e8add5c435929a1eaee49\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+50-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\lenovo\.gradle\caches\8.13\transforms\8f25fbebd650d5043b454f306603ec52\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+51                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+51-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\lenovo\.gradle\caches\8.13\transforms\8f25fbebd650d5043b454f306603ec52\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
 52                android:value="androidx.startup" />
-52-->[androidx.emoji2:emoji2:1.3.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\55930cea193e8add5c435929a1eaee49\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+52-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\lenovo\.gradle\caches\8.13\transforms\8f25fbebd650d5043b454f306603ec52\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
 53            <meta-data
-53-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\annonimous\.gradle\caches\8.13\transforms\8f25fbebd650d5043b454f306603ec52\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
-54                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-54-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\annonimous\.gradle\caches\8.13\transforms\8f25fbebd650d5043b454f306603ec52\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+53-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+54                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+54-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
 55                android:value="androidx.startup" />
-55-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\annonimous\.gradle\caches\8.13\transforms\8f25fbebd650d5043b454f306603ec52\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
-56            <meta-data
-56-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
-57                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-57-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
-58                android:value="androidx.startup" />
-58-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
-59        </provider>
-60
+55-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+56        </provider>
+57
+58        <uses-library
+58-->[androidx.window:window:1.0.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\0b07c16017976f5b122231acce03da1e\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+59            android:name="androidx.window.extensions"
+59-->[androidx.window:window:1.0.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\0b07c16017976f5b122231acce03da1e\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+60            android:required="false" />
+60-->[androidx.window:window:1.0.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\0b07c16017976f5b122231acce03da1e\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
 61        <uses-library
-61-->[androidx.window:window:1.0.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\0b07c16017976f5b122231acce03da1e\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
-62            android:name="androidx.window.extensions"
-62-->[androidx.window:window:1.0.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\0b07c16017976f5b122231acce03da1e\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+61-->[androidx.window:window:1.0.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\0b07c16017976f5b122231acce03da1e\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+62            android:name="androidx.window.sidecar"
+62-->[androidx.window:window:1.0.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\0b07c16017976f5b122231acce03da1e\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
 63            android:required="false" />
-63-->[androidx.window:window:1.0.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\0b07c16017976f5b122231acce03da1e\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
-64        <uses-library
-64-->[androidx.window:window:1.0.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\0b07c16017976f5b122231acce03da1e\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
-65            android:name="androidx.window.sidecar"
-65-->[androidx.window:window:1.0.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\0b07c16017976f5b122231acce03da1e\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
-66            android:required="false" />
-66-->[androidx.window:window:1.0.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\0b07c16017976f5b122231acce03da1e\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
-67
-68        <receiver
-68-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
-69            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-69-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
-70            android:directBootAware="false"
-70-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
-71            android:enabled="true"
-71-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
-72            android:exported="true"
-72-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
-73            android:permission="android.permission.DUMP" >
-73-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+63-->[androidx.window:window:1.0.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\0b07c16017976f5b122231acce03da1e\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+64
+65        <receiver
+65-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+66            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+66-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+67            android:directBootAware="false"
+67-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+68            android:enabled="true"
+68-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+69            android:exported="true"
+69-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+70            android:permission="android.permission.DUMP" >
+70-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+71            <intent-filter>
+71-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+72                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+72-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+72-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+73            </intent-filter>
 74            <intent-filter>
-74-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
-75                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-75-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
-75-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+74-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+75                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+75-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+75-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
 76            </intent-filter>
 77            <intent-filter>
-77-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
-78                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-78-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
-78-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+77-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+78                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+78-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+78-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
 79            </intent-filter>
 80            <intent-filter>
-80-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
-81                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-81-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
-81-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+80-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+81                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+81-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+81-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\lenovo\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
 82            </intent-filter>
-83            <intent-filter>
-83-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
-84                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-84-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
-84-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\annonimous\.gradle\caches\8.13\transforms\608846a85e4e0de3cc6326e2d772e023\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
-85            </intent-filter>
-86        </receiver>
-87    </application>
-88
-89</manifest>
+83        </receiver>
+84    </application>
+85
+86</manifest>

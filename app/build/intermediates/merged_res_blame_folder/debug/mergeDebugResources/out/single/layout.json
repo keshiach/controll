@@ -1,18 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\annonimous\\.gradle\\daemon\\8.13\\com.example.controllerzmq.app-mergeDebugResources-43:\\layout\\activity_connection.xml",
-        "source": "C:\\Users\\annonimous\\.gradle\\daemon\\8.13\\com.example.controllerzmq.app-main-46:\\layout\\activity_connection.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.13\\com.example.controllerzmq.app-mergeDebugResources-3:\\layout\\activity_connection.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.13\\com.example.controllerzmq.app-main-6:\\layout\\activity_connection.xml"
     },
     {
-        "merged": "C:\\Users\\annonimous\\.gradle\\daemon\\8.13\\com.example.controllerzmq.app-mergeDebugResources-43:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\annonimous\\.gradle\\daemon\\8.13\\com.example.controllerzmq.app-main-46:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.13\\com.example.controllerzmq.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.13\\com.example.controllerzmq.app-main-6:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.controllerzmq.app-mergeDebugResources-43:/layout/activity_controller.xml",
-        "source": "com.example.controllerzmq.app-main-46:/layout/activity_controller.xml"
+        "merged": "com.example.controllerzmq.app-mergeDebugResources-3:/layout/activity_controller.xml",
+        "source": "com.example.controllerzmq.app-main-6:/layout/activity_controller.xml"
     },
     {
-        "merged": "C:\\Users\\annonimous\\.gradle\\daemon\\8.13\\com.example.controllerzmq.app-mergeDebugResources-43:\\layout\\activity_controller.xml",
-        "source": "C:\\Users\\annonimous\\.gradle\\daemon\\8.13\\com.example.controllerzmq.app-main-46:\\layout\\activity_controller.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.13\\com.example.controllerzmq.app-mergeDebugResources-3:\\layout\\dialog_ip_port.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.13\\com.example.controllerzmq.app-main-6:\\layout\\dialog_ip_port.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.13\\com.example.controllerzmq.app-mergeDebugResources-3:\\layout\\activity_controller.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.13\\com.example.controllerzmq.app-main-6:\\layout\\activity_controller.xml"
     }
 ]

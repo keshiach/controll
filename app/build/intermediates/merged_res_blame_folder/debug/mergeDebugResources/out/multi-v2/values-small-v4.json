@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.controllerzmq.app-mergeDebugResources-42:/values-small-v4/values-small-v4.xml",
+            "outputFile": "com.example.controllerzmq.app-mergeDebugResources-2:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\annonimous\\.gradle\\caches\\8.13\\transforms\\9dc567ecfc00e5c528a9cd0d8de9c121\\transformed\\material-1.12.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\8.13\\transforms\\9dc567ecfc00e5c528a9cd0d8de9c121\\transformed\\material-1.12.0\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

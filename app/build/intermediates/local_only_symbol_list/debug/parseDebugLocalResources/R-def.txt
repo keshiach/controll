@@ -1,5 +1,6 @@
 R_DEF: Internal format may change without notice
 local
+color Indigo
 color black
 color green
 color purple_200
@@ -34,6 +35,7 @@ drawable status_error
 drawable status_ready
 drawable status_sending
 drawable tengah
+drawable tombol
 drawable zatas
 drawable zbawah
 id Zatas
@@ -43,10 +45,10 @@ id bawah
 id bottom_navigation
 id btnConnect
 id btnSend
+id btnSetting
+id button
 id connection
-id connection1
 id controller
-id controller1
 id etIpAddress
 id etMessage
 id etPort
@@ -54,16 +56,6 @@ id frameLayout
 id gripper
 id guideline_center_horizontal
 id guideline_center_vertical
-id imageButton
-id imageButton11
-id imageButton12
-id imageButton2
-id imageButton3
-id imageButton4
-id imageButton5
-id imageButton6
-id imageButton7
-id imageButton8
 id imageView2
 id kanan
 id kananatas
@@ -71,14 +63,21 @@ id kananbawah
 id kiri
 id kiriatas
 id kiribawah
+id koord
 id main
-id main1
 id scrollContent
 id tengah
+id textView10
+id textView11
+id textView2
+id textView3
+id textView4
+id textView8
 id tvStatus
 layout activity_connection
 layout activity_controller
 layout activity_main
+layout dialog_ip_port
 menu bottom_nav_menu
 mipmap ic_launcher
 mipmap ic_launcher_round

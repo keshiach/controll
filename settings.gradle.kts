@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "controllerzmq"
+rootProject.name = "controller"
 include(":app")
